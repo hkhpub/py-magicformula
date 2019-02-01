@@ -32,12 +32,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kosdaq_company.csv" pinned="false" current-in-tab="false">
+      <file leaf-file-name="kosdaq_company.csv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kosdaq_company.csv">
           <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="kospi_company.csv" pinned="false" current-in-tab="true">
+      <file leaf-file-name="kospi_company.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kospi_company.csv">
           <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
@@ -97,8 +97,8 @@
         <option value="$PROJECT_DIR$/AllStock.py" />
         <option value="$PROJECT_DIR$/AllStockNew.py" />
         <option value="$PROJECT_DIR$/MagicFormula.py" />
-        <option value="$PROJECT_DIR$/kosdaq_company.csv" />
         <option value="$PROJECT_DIR$/kospi_company.csv" />
+        <option value="$PROJECT_DIR$/kosdaq_company.csv" />
       </list>
     </option>
   </component>
@@ -703,10 +703,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kosdaq_company.csv">
+    <entry file="file://$PROJECT_DIR$/kospi_company.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/kospi_company.csv">
+    <entry file="file://$PROJECT_DIR$/kosdaq_company.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
   </component>
