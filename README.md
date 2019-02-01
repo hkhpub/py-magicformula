@@ -1,4 +1,4 @@
-# py-finance
+# py-magicformula
 ## 종목 정보 조회
 ```
 python AllStockNew.py
