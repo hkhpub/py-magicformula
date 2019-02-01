@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4468b3c2-184b-49c1-b020-6f7313c6e614" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/py-finance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllStock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllStockNew.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MagicFormula.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kosdaq_code.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kosdaq_company.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kospi_code.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kospi_company.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kosdaq_company.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kosdaq_company.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kospi_company.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kospi_company.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,16 +20,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MagicFormula.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MagicFormula.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MagicFormula.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="135" column="33" lean-forward="true" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="33" />
+            <state relative-caret-position="441">
+              <caret line="136" column="4" lean-forward="true" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="4" />
               <folding>
                 <element signature="e#112#134#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kosdaq_company.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kosdaq_company.csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="kospi_company.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kospi_company.csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
       <file leaf-file-name="AllStock.py" pinned="false" current-in-tab="false">
@@ -94,11 +94,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/collect-stocks.py" />
-        <option value="$PROJECT_DIR$/kospi_company.csv" />
-        <option value="$PROJECT_DIR$/kosdaq_company.csv" />
         <option value="$PROJECT_DIR$/AllStock.py" />
         <option value="$PROJECT_DIR$/AllStockNew.py" />
         <option value="$PROJECT_DIR$/MagicFormula.py" />
+        <option value="$PROJECT_DIR$/kosdaq_company.csv" />
+        <option value="$PROJECT_DIR$/kospi_company.csv" />
       </list>
     </option>
   </component>
@@ -670,16 +670,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kospi_company.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/kospi_code.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/kosdaq_code.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kosdaq_company.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/AllStock.py">
@@ -701,13 +695,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MagicFormula.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="135" column="33" lean-forward="true" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="33" />
+        <state relative-caret-position="441">
+          <caret line="136" column="4" lean-forward="true" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="4" />
           <folding>
             <element signature="e#112#134#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kosdaq_company.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kospi_company.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
   </component>
 </project>
